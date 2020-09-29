@@ -792,7 +792,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](1, "h1");
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](2, "Angular With NodeJS");
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](2, "SIFS Ops Center - Angular Demo With NodeJS Server");
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
@@ -1116,7 +1116,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
   /***/
   function _(module, exports, __webpack_require__) {
     module.exports = __webpack_require__(
-    /*! /Users/bhargavbachina/Projects/angular-nodejs-example/my-app/src/main.ts */
+    /*! /Users/ccyang/Github/angular-nodejs-example/ui-server/src/main.ts */
     "./src/main.ts");
     /***/
   }
